@@ -17,4 +17,4 @@ I'm a passionate **B.Tech Computer Science and Engineering (CSE)** student dedic
 | :--- | :--- |
 | **JavaScript** | Primary learning focus |
 | **Python** | Basics, scripting, problem-solving |
-| **[Add Next Tech]** | Planning to learn next (e.g., Node.js, SQL) |
+ Planning to learn next (e.g., Node.js, SQL) 
